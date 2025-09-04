@@ -1,0 +1,103 @@
+{
+  "name": "Soswap",
+  "logoURI": "/favicon.ico",
+  "keywords": ["soswap"],
+  "timestamp": "2023-05-06T04:23:48.089Z",
+  "tokens": [
+    {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+      "name": "USD Base Coin",
+      "symbol": "USDbC",
+      "chainId": 8453,
+      "decimals": 6
+    },
+    {
+      "name": "Rebase",
+      "symbol": "Rebase",
+      "address": "0x3421cc14F0e3822Cf3B73C3a4BEC2A1023b8d9Cf",
+      "decimals": 9,
+      "chainId": 8453
+    },
+    {
+      "name": "DAI",
+      "symbol": "DAI",
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
+      "name": "RaiFinance",
+      "symbol": "SOFI",
+      "address": "0x703D57164CA270b0B330A87FD159CfEF1490c0a5",
+      "decimals": 18,
+      "chainId": 8453
+    },
+    {
+      "name": "Synth Token",
+      "symbol": "SYNTH",
+      "address": "0xbd2DBb8eceA9743CA5B16423b4eAa26bDcfE5eD2",
+      "decimals": 18,
+      "chainId": 8453
+    },{
+      "name": "Basin Protocol",
+      "symbol": "BASIN",
+      "address": "0x4788de271F50EA6f5D5D2a5072B8D3C61d650326",
+      "decimals": 18,
+      "chainId": 8453
+    },{
+      "name": "Baseswap Token",
+      "symbol": "BSWAP",
+      "address": "0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9",
+      "decimals": 18,
+      "chainId": 8453
+    },{
+      "symbol": "USDC",
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "decimals": 6,
+      "chainId": 8453
+    },{
+      "symbol": "cbETH",
+      "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+      "name": "Coinbase Wrapped Staked ETH",
+      "decimals": 18,
+      "chainId": 8453
+    },{
+      "symbol": "ALB",
+      "address": "0x1dd2d631c92b1aCdFCDd51A0F7145A50130050C4",
+      "name": "AlienBase Token",
+      "decimals": 18,
+      "chainId": 8453
+    },{
+      "symbol": "axlUSDC",
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "name": "Axelar Wrapped USDC",
+      "decimals": 6,
+      "chainId": 8453
+    },{
+      "symbol": "DIP",
+      "address": "0xAdBa4694F5deAF3251d06dec38C86946F8952EFB",
+      "name": "DIP Token",
+      "decimals": 18,
+      "chainId": 8453
+    },{
+      "symbol": "MOON",
+      "address": "0xeF0b2Ccb53A683fA48799245f376D6a60929f003",
+      "name": "MoonBase Token",
+      "decimals": 18,
+      "chainId": 8453
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

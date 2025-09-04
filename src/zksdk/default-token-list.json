@@ -1,0 +1,21 @@
+{
+  "name": "Soswap",
+  "logoURI": "/favicon.ico",
+  "keywords": ["Soswap"],
+  "timestamp": "2023-05-06T04:23:48.089Z",
+  "tokens": [
+    {
+      "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+      "name": "USDC",
+      "symbol": "USDC",
+      "chainId": 324,
+      "decimals": 6,
+      "logoURI": "/images/token/usdc.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

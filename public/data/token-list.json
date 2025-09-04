@@ -1,0 +1,53 @@
+{
+  "name": "Soswap",
+  "logoURI": "/favicon.ico",
+  "keywords": ["soswap"],
+  "timestamp": "2023-05-06T04:23:48.089Z",
+  "tokens": [
+    {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "/images/token/weth.png"
+    },
+    {
+      "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+      "name": "USDbC",
+      "symbol": "USDbC",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "/images/token/usdc.png"
+    },
+    {
+      "name": "Rebase",
+      "symbol": "Rebase",
+      "address": "0x3421cc14F0e3822Cf3B73C3a4BEC2A1023b8d9Cf",
+      "decimals": 9,
+      "chainId": 8453,
+      "logoURI": "/images/token/rebase.png"
+    },
+    {
+      "name": "DAI",
+      "symbol": "DAI",
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "/images/token/dai.png"
+    },
+    {
+      "name": "RaiFinance",
+      "symbol": "SOFI",
+      "address": "0x703D57164CA270b0B330A87FD159CfEF1490c0a5",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "/images/token/sofi.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
